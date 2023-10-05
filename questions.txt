@@ -1,7 +1,7 @@
-
-#  JavaScript Midterm
-
-## Instructions:  
+----------------------------
+  JavaScript Midterm
+----------------------------
+Instructions:  
 
 Using the files contained in this zip file, implement solutions for the questions below.  Each question has a folder associated with it
 containing the file where you will write your code, and a second file that contains the Jasmine tests relevant to that question.
